@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Ignore Python cache files
+__pycache__/
+
